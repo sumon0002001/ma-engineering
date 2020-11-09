@@ -1,6 +1,9 @@
-.main-nav ul li a{
-   
+.main-nav {
     background-color: black;
-    color: blue;
-    
+}
+
+.hero-full-container  {
+    background-image: url('../assets/images/bg_1.jpg');
+    background-size: cover;
+
 }
